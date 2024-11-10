@@ -1,6 +1,9 @@
 Task Tracker CLI
 Task Tracker is a command-line application built with Nest.js for managing a to-do list. This app allows you to add, update, delete, and list tasks with various statuses (todo, in-progress, done). Tasks are stored in a JSON file, which is automatically created in the project root if it does not already exist.
 
+Project URL
+https://roadmap.sh/projects/task-tracker
+
 Features
 Add new tasks
 Update task status (todo, in-progress, done)
